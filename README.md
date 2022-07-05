@@ -1,14 +1,12 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I wanted to do something fun and practice coding by creating a game. I decided to create a space shooting game using Python and arcade with VS Code. I wanted to get practice using arcade documentation to help me build my project. I would have to say this project has helped me learn to read and use documentation a lot. There were several times in the beginning that I used YouTube and followed along to help solve problems, but towards the end I was referencing the documentation any time I got stuck. 
 
-{Provide a description the game that you wrote. Describe how to play your game.}
+This game the player is a space ship that has to shoot or dodge the falling meteors. If a meteor is shoot by a laser the player earns a point. Every ten points the player advances to the next level. At each level the background color changes randomly and the new meteors created start to fall faster. The point of the game is to survive and see how high of a score you can get. If the ship is hit by a meteor the game restarts. 
 
-{Describe your purpose for writing this software.}
+To view a demo of the code and game play got to:
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/KURYg6FVJKs)
 
 # Development Environment
 
