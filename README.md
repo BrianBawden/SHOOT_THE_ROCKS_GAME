@@ -8,6 +8,10 @@ To view a demo of the code and game play got to:
 
 [Software Demo Video](https://youtu.be/KURYg6FVJKs)
 
+# File Path to Code
+
+venv/game_main/main.py
+
 # Development Environment
 
 The tools I used to create this program are:
