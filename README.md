@@ -10,19 +10,23 @@ To view a demo of the code and game play got to:
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+The tools I used to create this program are:
 
-{Describe the programming language that you used and any libraries.}
+* VS Code
+* Arcade
+* Python
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Arcade](https://api.arcade.academy/en/latest/index.html)
+* [YouTube](https://www.youtube.com/playlist?list=PL1P11yPQAo7pPlDlFEaL3IUbcWnnPcALI)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+Future Improvements:
+* Add a way to keep a high score
+* Add a home screen and a game over screen
+* Improve the background of the game and the different levels
+* Allow users to pick their ships
+* Ways to upgrade your laser
