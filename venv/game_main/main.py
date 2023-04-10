@@ -46,6 +46,7 @@ class MyGame(arcade.Window):
 
 
     def setup(self):
+        # Using the arcade library to construct the different sprites like ship, meteors, and laser.
         global METEOR_SPEED
         self.player_list = arcade.SpriteList()
         self.laser_list = arcade.SpriteList()
@@ -105,11 +106,12 @@ class MyGame(arcade.Window):
                 m.remove_from_sprite_lists()
                 self.score += 1
                 self.create_meteor()
-                color_r = random.randrange(0, 250)
-                color_g = random.randrange(0, 250)
-                color_b = random.randrange(0, 250)
+
 
                 if self.score % 10 == 0:
+                    color_r = random.randrange(0, 250)
+                    color_g = random.randrange(0, 250)
+                    color_b = random.randrange(0, 250)
                     arcade.set_background_color((color_r, color_g, color_b))
                     METEOR_SPEED += 2
             if l.top > SCREEN_HEIGHT:
