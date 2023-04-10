@@ -52,7 +52,6 @@ class MyGame(arcade.Window):
         self.meteor_list = arcade.SpriteList()
 
         self.score = 0
-        METEOR_SPEED = 2
 
         self.player_sprite = arcade.Sprite(":resources:images/space_shooter/"
         "playerShip1_blue.png", SPRITE_SCALE_PLAYER)
